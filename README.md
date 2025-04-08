@@ -1,2 +1,3 @@
 # -student-_first
-hyy Krishna hello
+learning about github
+author :- Krishna Goyal
